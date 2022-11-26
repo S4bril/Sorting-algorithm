@@ -1,2 +1,2 @@
 # Sorting-algorithm
-Visualisation of bubble sort
+Graphical visualisation of bubble sort made with object C++ and SFML library
